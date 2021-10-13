@@ -17,7 +17,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/KunalK27/LoveMeChocolates/main/img/logo.jpeg">
+  <a href="https://raw.githubusercontent.com/KunalK27/LoveMeChocolates/main/img/logo.jpeg">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -25,12 +25,11 @@
 
   <p align="center">
     The Best Attractive Website Template to sell Homemade Chocolates!
-    <br />
-  
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>-->
-    ·
-    ·
+  </p>
+  <!--<p>
+    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a> 
+  </p>-->
+  <p>
     <a href="https://github.com/KUNALK27/LoveMeChocolates/issues">Request Feature</a>
   </p>
 </div>
