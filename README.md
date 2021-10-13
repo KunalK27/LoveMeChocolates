@@ -18,7 +18,7 @@
 <br />
 <div align="center">
   <a href="https://raw.githubusercontent.com/KunalK27/LoveMeChocolates/main/img/logo.jpeg">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="https://raw.githubusercontent.com/KunalK27/LoveMeChocolates/main/img/logo.jpeg" alt="Logo" width="200" height="120">
   </a>
 
   <h3 align="center">Love Me Chocolates</h3>
