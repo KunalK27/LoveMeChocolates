@@ -11,26 +11,24 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][https://www.linkedin.com/in/kunalkulkarni27]
 
 
 
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/KunalK27/LoveMeChocolates/logo.jpeg">
+  <a href="https://github.com/KunalK27/LoveMeChocolates/main/img/logo.jpeg">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Love Me Chocolates</h3>
 
   <p align="center">
-    The best attractive Website Template to sell Homemade Chocolates!
+    The Best Attractive Website Template to sell Homemade Chocolates!
     <br />
   
     <br />
-    <!--<a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>-->
+    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>-->
     ·
     ·
     <a href="https://github.com/KUNALK27/LoveMeChocolates/issues">Request Feature</a>
@@ -60,9 +58,6 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
 Developed with the intention to help my mother in her business for selling homemeade chocolates using an online platform, this project covers both the technical and design aspects with an eye catching design!
 
 The website design highlights features pertaining to the venture, displayed in a user friendly manner. This includes:
@@ -129,8 +124,7 @@ Don't forget to give the project a star! Thanks again!
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See `LICENSE.txt` for more information.
-
+Distributed under the MIT License
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
